@@ -17,7 +17,7 @@ Your users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Links
-<a href="https://heisemmaco.github.io/article-preview-component/">Live Site</a>
+<a href="https://heisemmaco-dev.github.io/article-preview-component-master/">Live Site</a>
 
 ### Built with
 
