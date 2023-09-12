@@ -196,7 +196,7 @@ transition: all 0.5s ease-out;
     }
 
     picture {
-        background-image: url(/drawers.jpg);
+        background-image: url(drawers.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         width: 900px;
